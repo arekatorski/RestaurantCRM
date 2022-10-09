@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+body #baner {
+  background-image: url("../img/baner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+body #about {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+body #about h2 {
+  color: #BE9342;
+}
+body #image {
+  background-image: url("../img/bartender.jpg");
+  background-position: center;
+}
+body #reservation {
+  background-color: #BE9342;
+  color: white;
+  padding: 50px;
+}
+body footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+body form {
+  text-align: center;
+  padding: 50px;
+}
+body input {
+  padding: 10px;
+}
+body .h2 {
+  text-align: center;
+  padding-top: 20px;
+}/*# sourceMappingURL=style.css.map */
